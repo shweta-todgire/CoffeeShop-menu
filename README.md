@@ -3,10 +3,6 @@
 A fully responsive and animated **Coffee Shop Menu Website** built using **React**, **GSAP**, **Framer Motion**, and **CSS animations**.  
 This website showcases hot coffees, cold coffees, snacks, carousel sliders, flip-cards, and a modern café-style UI.
 
----
-
-## 🚀 Live Demo  
-🔗 **https://shweta-todgire.github.io/CoffeeShop-menu/**
 
 ---
 
