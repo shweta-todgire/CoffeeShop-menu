@@ -181,7 +181,7 @@ function App() {
 
       {/* Carousel Section */}
       <section className="slideshow-section">
-        <h2 className="slider-title">Popular Picks</h2>
+        <h2 className="slider-title">Popular Coffees</h2>
         <div className="carousel-wrapper">
           <div className="carousel">
             {images.map((img, i) => {
