@@ -6,6 +6,12 @@ This website showcases hot coffees, cold coffees, snacks, carousel sliders, flip
 
 ---
 
+## Demo Video
+
+[Click here to watch the demo](./media/demo.mp4)
+
+---
+
 ## 📌 Features
 
 - Responsive UI for **mobile, tablet, and desktop**
