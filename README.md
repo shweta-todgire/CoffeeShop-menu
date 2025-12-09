@@ -8,7 +8,7 @@ This website showcases hot coffees, cold coffees, snacks, carousel sliders, flip
 
 ## Demo Video
 
-[![Watch the video](./media/thumbnail.png)](./media/demo.mp4)
+[![Watch the video](./media/thumbnail.png)](./media/demo.gif)
 
 
 ---
